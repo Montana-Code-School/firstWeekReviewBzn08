@@ -16,7 +16,7 @@ var toppings2 = {
   sauce:"red",
   crust:{
     type:"crusty",
-    contents:""
+    contents:"none"
   }
 }
 
